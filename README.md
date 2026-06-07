@@ -132,24 +132,4 @@ Matplotlib Visualisation
 
 ---
 
-## SDLC Mapping
 
-| Phase | Implementation |
-|---|---|
-| Requirements | Problem statement — replace manual attendance with automated CV system |
-| Design | Module-wise architecture — GUI, recognition, DB, visualisation |
-| Development | Python, OpenCV LBPH, SQLite, Tkinter, threading |
-| Testing | Confidence threshold tuning, edge case handling for unknown faces |
-| Deployment | Standalone desktop application |
-
----
-
-## Achievement
-
-This project received a **Special Mention** at the Web Protoplot Competition — Innovation 2025, Cummins College of Engineering for Women, Pune.
-
----
-
-## Author
-
-Nidhi Borkar — Computer Engineering, Cummins College of Engineering for Women, Pune
